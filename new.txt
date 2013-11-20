@@ -1,2 +1,4 @@
 new file hello
-omg
+om
+g
+not bad
